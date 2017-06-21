@@ -200,8 +200,7 @@ body{
       
       <div class = "list">
         <h3>مزايا الساعة الذكية</h3>
-  	
-         <img src = "http://gloimg.everbuying.net/E/pdm-product-pic/Electronic/2016/01/07/goods-img/1464221523766033048.jpg"  alt = "صورة ساعة ذكية">
+  	<img src="http://gloimg.everbuying.net/E/pdm-product-pic/Electronic/2016/01/07/goods-img/1464221523766033048.jpg" style="width:210px;height:210px;">
         
         <ul>  
           <li>مراقبة نشاط المستخدم</li>
